@@ -1,0 +1,23 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "```\r As a manager\r I want to generate a webpage that displays my team's basic info\r so that I have quick access to emails and GitHub profiles\r ```",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mekditd/Team-Profile-Generator.git"
+  },
+  "author": "Tedla B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mekditd/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/mekditd/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.0.6",
+    "jest": "^25.1.0"
+  }
+}
